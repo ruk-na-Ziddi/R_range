@@ -1,0 +1,11 @@
+{
+  "name": "range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "range.js",
+  "scripts": {
+    "test": "node runTest.js rangeTest.js"
+  },
+  "author": "ankurks@thoughtworks.com",
+  "license": "ISC"
+}
